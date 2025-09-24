@@ -1,9 +1,6 @@
 # WebDev_Project_OtakuHaven
 
-Anime Merchandise Community Forum  
-Overview  
-
-The Anime Merchandise Community Forum is a project aimed at merging an anime product store with an engaging community space. It provides users with a platform to shop for anime merchandise, engage in forum-style conversations, and explore new series through a random anime suggestion generator.  
+Otaku Haven is a project aimed at merging an anime product store with an engaging community space. It provides users with a platform to shop for anime merchandise, engage in forum-style conversations, and explore new series through a random anime suggestion generator.  
 
 Features  
 
